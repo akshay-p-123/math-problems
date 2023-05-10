@@ -12,6 +12,10 @@ On MacOS, follow this [tutorial](https://www.geeksforgeeks.org/how-to-install-tk
 On Linux, follow this [tutorial](https://www.geeksforgeeks.org/how-to-install-tkinter-on-linux/).
 To install Python on all systems, use this [link](https://www.python.org/downloads/).
 
+Once downloaded, make sure to run main.py.
+In shell:
+`python main.py`
+
 As this program is intended for children, the GUI uses bright colors and has minimal options to reduce confusion. The flow of the program is relatively self-explanatory.
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/13cb7d48-0cd5-4a32-ac09-89aeba56571b)
 
