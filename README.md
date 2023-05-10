@@ -26,20 +26,43 @@ First, log in using one of the following accounts (currently 5 available):
  user5|4321
  
 You will then be taken to this screen, where you have the choice of seeing the leaderboard or being taken to another screen where you can choose the type and number of questions to be answered.
+
+
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/69cb7aa2-e30b-45e5-bfe5-2f332e22cc0f)
+
+
+
+
+
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/0820297a-d7e0-466a-b94e-7222849ab54c)
 
+
+
+
+
+
 After choosing the question type and number, you will be able to start answering questions. 
+
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/7b383306-bde0-4e51-bce6-b04293caa1fe)
 You get two tries per question and once you get it wrong twice, it displays the correct answer and prompts you to move on to the next question. 
+
+
+
 
 Once you're done answering questions, it displays your score. 10 points are awarded for a correct answer on the first try, 5 points for getting it right on the second try, and none for an incorrect answer. 
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/3bc7648a-0cde-4e26-a8f8-ac54b17efc57)
 In this case, I got three correct answers on the first try and one wrong answer.
 
+
+
+
 Pressing the 'Leaderboard' button takes you to this screen:
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/605b783c-aa9a-4564-8802-1b99f8def921)
 The leaderboard shows the top five scores and the current user's score if they aren't in the top five. In this case, user1 has the second-highest score.
+
+
+
+
 
 __A special thanks to the [tkinter docs](https://docs.python.org/3/library/tk.html)__
 
