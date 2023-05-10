@@ -1,7 +1,7 @@
 # math-problems
 Generates random addition, subtraction, multiplication, and division problems. 
 
-I created this project for the 'Website Development Intern' position I currently hold at a local tutoring company. The GUI was not the primary focus of this project, moreso the functionality. The intention was to create a program that helps grade-school age children learn basic arithmetic in a fun and competitive way.
+I created this project for the 'Website Development Intern' position I currently hold at a local tutoring company. The GUI was not the primary focus of this project, moreso the functionality. __This program is not in active use, it is only to demonstrate the concept.__ The intention was to create a program that helps grade-school age children learn basic arithmetic in a fun and competitive way.
 
 This program currently has no identified bugs. However, I plan to add additional functionality (storing account and leaderboard data using SQL, the ability to create new user accounts, back buttons, and more intuitive UX).
 
