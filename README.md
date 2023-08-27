@@ -62,7 +62,7 @@ In this case, I got three correct answers on the first try and one wrong answer.
 
 Pressing the 'Leaderboard' button takes you to this screen:
 ![image](https://github.com/akshay-p-123/math-problems/assets/80610931/605b783c-aa9a-4564-8802-1b99f8def921)
-The leaderboard shows the top five scores and the current user's score if they aren't in the top five. In this case, user1 has the second-highest score.
+The leaderboard shows the top five scores and the current user's score if they aren't in the top five. In this case, user1 got the second-highest score compared to themselves.
 
 
 
