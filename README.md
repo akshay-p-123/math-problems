@@ -1,13 +1,13 @@
 # math-problems
 Generates random addition, subtraction, multiplication, and division problems. 
 
-I created this project for the 'Website Development Intern' position I currently hold at a local tutoring company. The GUI was not the primary focus of this project, moreso the functionality. __This program is not in active use, it is only to demonstrate the concept.__ The intention was to create a program that helps grade-school age children learn basic arithmetic in a fun and competitive way.
+The GUI was not the primary focus of this project, more so the functionality. __This program is not in active use, it is only to demonstrate the concept.__ The intention was to create a program that helps grade-school-age children learn basic arithmetic in a fun and competitive way.
 
 This program currently has no identified bugs. However, I plan to add additional functionality (storing account and leaderboard data using SQL, the ability to create new user accounts, back buttons, and more intuitive UX).
 
 The code style for this project is object-oriented, possessing modules for the GUI and leaderboard.
 
-This project is created in Python using the tkinter module, which I chose because of its lightweight API and straightforward implementation. On Windows, tkinter is included in the standard Python 3 installation, so no further installation is needed if you have Python installed.
+This project was created in Python using the tkinter module, which I chose because of its lightweight API and straightforward implementation. On Windows, tkinter is included in the standard Python 3 installation, so no further installation is needed if you have Python installed.
 On MacOS, follow this [tutorial](https://www.geeksforgeeks.org/how-to-install-tkinter-on-macos/) to install tkinter. 
 On Linux, follow this [tutorial](https://www.geeksforgeeks.org/how-to-install-tkinter-on-linux/).
 To install Python on all systems, use this [link](https://www.python.org/downloads/).
