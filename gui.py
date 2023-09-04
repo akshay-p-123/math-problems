@@ -57,7 +57,7 @@ class Controller(tk.Tk):
         f.grid(row=0, column=0, sticky="news")
         self.container.tkraise()
         
-
+    #initialize these frames separately because the output is dependent on input elsewhere in the program
     def init_frame_questions(self):
         frame = Frame_Questions(self.container, self)
         self.frames[Frame_Questions] = frame
