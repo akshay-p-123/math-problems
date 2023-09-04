@@ -3,7 +3,7 @@ Generates random addition, subtraction, multiplication, and division problems.
 
 The GUI was not the primary focus of this project, more so the functionality. __This program is not in active use, it is only to demonstrate the concept.__ The intention was to create a program that helps grade-school-age children learn basic arithmetic in a fun and competitive way.
 
-This program currently has no identified bugs. However, I plan to add additional functionality (storing account and leaderboard data using SQL, the ability to create new user accounts, back buttons, and more intuitive UX).
+This program currently has no identified bugs. However, I plan to add additional functionality (storing account and leaderboard data in a database and querying it with SQLite, the ability to create new user accounts, back buttons, and more intuitive UX).
 
 The code style for this project is object-oriented, possessing modules for the GUI and leaderboard.
 
