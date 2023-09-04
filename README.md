@@ -68,7 +68,7 @@ The leaderboard shows the top five scores and the current user's score if they a
 
 
 
-__A special thanks to the [tkinter docs](https://docs.python.org/3/library/tk.html)__
+__A special thanks to the [tkinter docs](https://docs.python.org/3/library/tk.html)__.
 
 
 
